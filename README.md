@@ -47,7 +47,7 @@ Instead of remembering dozens of flags and command combinations, this framework 
 - Packet fragmentation | MAC spoofing | Randomized hosts | Bad checksums
 - Source port spoofing | Firewall bypass options
 
-## 💾 Shortcuts System
+## Shortcuts System
 - Save your commons scans | Load scans instantly
 - Rename or delete presets | Auto-generated shortcut names
 
