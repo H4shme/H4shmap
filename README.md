@@ -87,27 +87,29 @@ brew install nmap
 Download:
 https://nmap.org/download.html
 
-
-# Dependencies
-
-Required Python modules:
-
-```txt
-colorama
-```
-
 ---
 
 # 📁 Project Structure
 
 ```text
-NmapFramework/
+H4shmap/
 │
 ├── main.py
-├── requirements.txt
-├── nmap_shortcuts.json
-└── README.md
+├── requirements.py
+├── README.md
+│
+├── UI/
+│   ├── menus.py
+│   └── ui.py
+│
+├── core/
+│   ├── runner.py
+│   └── state.py
+│
+└── utils/
+    └── shortcuts.py
 ```
+
 ---
 
 # 🤝 Contributing
